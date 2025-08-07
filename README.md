@@ -12,10 +12,6 @@ Features
 - Displays error message for invalid city input
 - Stylish and responsive UI
 
-Screenshots
-
-![App Screenshot](images/screenshot.png)
-
 Tech Stack
 
 - Java (Servlets & JSP)
